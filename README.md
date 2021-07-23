@@ -1,4 +1,4 @@
-### Hi, I'm Sam, a computational biologist and data scientist
+### Hi, I'm [Sam](thompsonsed.co.uk), a computational biologist and data scientist
 
 I'm currently working at the [Cell and Gene Therapy Catapult](https://ct.catapult.org.uk/) as a [Data Scientist](https://www.linkedin.com/in/thompson-sed/).
 
@@ -15,10 +15,6 @@ I now work as a data scientist, with my current role involving application devel
 - Ecology
 - App development
 - AWS
-
-
-[Website](thompsonsed.co.uk)
-
 
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=thompsonsed)](https://github.com/anuraghazra/github-readme-stats)
 
