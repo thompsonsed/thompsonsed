@@ -1,4 +1,4 @@
-### Hi, I'm [Sam](www.thompsonsed.co.uk), a computational biologist and data scientist
+### Hi, I'm [Sam](https://www.thompsonsed.co.uk), a computational biologist and data scientist
 
 I'm currently working at the [Cell and Gene Therapy Catapult](https://ct.catapult.org.uk/) as a [Data Scientist](https://www.linkedin.com/in/thompson-sed/).
 
