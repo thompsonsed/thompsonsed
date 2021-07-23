@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Sam, a computational biologist and data scientist
+
+I'm currently working at the [Cell and Gene Therapy Catapult]()
+
+
+[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=thompsonsed)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **thompsonsed/thompsonsed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
