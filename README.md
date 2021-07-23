@@ -17,7 +17,7 @@ I now work as a data scientist, with my current role involving application devel
 - AWS
 
 
-Website: thompsonsed.co.uk
+[Website](thompsonsed.co.uk)
 
 
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=thompsonsed)](https://github.com/anuraghazra/github-readme-stats)
