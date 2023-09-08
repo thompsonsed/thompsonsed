@@ -16,6 +16,6 @@ I now work as a data scientist, with my current role involving application devel
 - App development
 - AWS
 
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=thompsonsed&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sam's GitHub stats]([https://github-readme-stats-thompsonsed.vercel.app/api?count_private=true&username=thompsonsed&theme=dracula](https://github-readme-stats-thompsonsed.vercel.app/api?count_private=true&username=thompsonsed&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)
 
 
